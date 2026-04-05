@@ -1,0 +1,70 @@
+================================================================================
+WAFER MAP ANALYSIS SUMMARY REPORT - CONTOUR VERSION
+================================================================================
+
+DATASET OVERVIEW:
+----------------------------------------
+DMT-TFK Comparisons: 124 matched pairs
+  Wafers: AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK091TEC7
+BTM-DMT Comparisons: 248 matched pairs
+  Wafers: FJ8FV462JKE3, GCAZB804MMG2, GD1TV233JKE1, GD2EG055JKE1, GD2EG374JKG2, GD7LB592JKE0, GH1WJ243JKG6, WMCTA057ESB3
+
+LOCATION ANALYSIS:
+----------------------------------------
+Total measurement locations analyzed: 62
+
+DMT-TFK - Top 5 Highest Delta Locations:
+  (  57.0, -135.0) mm:  -162.1 ±  13.4 Å
+  ( -57.0, -135.0) mm:  -154.9 ±   5.2 Å
+  (-135.0,  -57.0) mm:  -143.7 ±   4.0 Å
+  (-135.0,   57.0) mm:  -130.5 ±   9.3 Å
+  ( -57.0,  135.0) mm:  -121.3 ±   6.6 Å
+
+BTM-DMT - Top 5 Highest Delta Locations:
+  ( -57.9,  136.2) mm:   193.1 ±  12.6 Å
+  (-136.2,   57.9) mm:   191.4 ±   7.9 Å
+  (-136.2,  -57.9) mm:   189.2 ±   7.3 Å
+  ( -57.9, -136.2) mm:   187.3 ±   8.1 Å
+  (  57.9, -136.2) mm:   184.0 ±   8.7 Å
+
+TOOL STATISTICS BY WAFER:
+----------------------------------------
+
+BTM Tool:
+  FJ8FV462JKE3: 12340.3 ± 116.2 Å (31 points)
+  GCAZB804MMG2: 12377.4 ± 118.4 Å (31 points)
+  GD1TV233JKE1: 12385.2 ± 122.3 Å (31 points)
+  GD2EG055JKE1: 12444.0 ± 124.6 Å (31 points)
+  GD2EG374JKG2: 12411.5 ± 117.7 Å (31 points)
+  GD7LB592JKE0: 12400.3 ± 120.7 Å (31 points)
+  GH1WJ243JKG6: 12419.8 ± 121.9 Å (31 points)
+  WMCTA057ESB3: 12390.3 ± 123.7 Å (31 points)
+
+DMT Tool:
+  AANAK056TEG1: 12446.1 ±  91.8 Å (31 points)
+  AANAK061TEE1: 12445.9 ±  91.6 Å (31 points)
+  AANAK067TEA1: 12481.1 ±  94.1 Å (31 points)
+  AANAK091TEC7: 12474.4 ±  93.6 Å (31 points)
+
+TFK Tool:
+  AANAK056TEG1: 12459.6 ±  91.3 Å (31 points)
+  AANAK061TEE1: 12458.6 ±  92.0 Å (31 points)
+  AANAK067TEA1: 12494.2 ±  89.6 Å (31 points)
+  AANAK091TEC7: 12487.8 ±  89.1 Å (31 points)
+
+CONTOUR PLOT FEATURES:
+----------------------------------------
+• Smooth interpolated surfaces showing spatial trends
+• White dots overlay showing actual measurement locations
+• Contour lines with value labels for precise reading
+• Color scales optimized for each measurement type
+• High delta locations marked with yellow stars
+
+COORDINATE SYSTEM NOTES:
+----------------------------------------
+• Each thickness map uses its tool's native coordinate system
+• TFK thickness maps now use TFK coordinates for consistency
+• Different tool comparisons may include different measurement subsets
+• This is expected due to different matching criteria and algorithms
+
+================================================================================

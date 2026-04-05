@@ -1,0 +1,72 @@
+================================================================================
+WAFER MAP ANALYSIS SUMMARY REPORT - RADIAL SPLINE VERSION
+================================================================================
+
+DATASET OVERVIEW:
+----------------------------------------
+DMT-TFK Comparisons: 124 matched pairs
+  Wafers: AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK091TEC7
+BTM-DMT Comparisons: 248 matched pairs
+  Wafers: FJ8FV462JKE3, GCAZB804MMG2, GD1TV233JKE1, GD2EG055JKE1, GD2EG374JKG2, GD7LB592JKE0, GH1WJ243JKG6, WMCTA057ESB3
+
+LOCATION ANALYSIS:
+----------------------------------------
+Total measurement locations analyzed: 62
+
+DMT-TFK - Top 5 Highest Delta Locations:
+  ( 141.0,  -36.0) mm:   -44.5 ±   5.8 Å
+  ( -57.0,  135.0) mm:    33.7 ±   6.6 Å
+  (-135.0,   57.0) mm:    24.5 ±   9.3 Å
+  ( 135.0,   18.0) mm:    23.3 ±   0.5 Å
+  (  96.0,  -96.0) mm:    20.3 ±   1.8 Å
+
+BTM-DMT - Top 5 Highest Delta Locations:
+  ( -57.9,  136.2) mm:   193.1 ±  12.6 Å
+  (-136.2,   57.9) mm:   191.4 ±   7.9 Å
+  (-136.2,  -57.9) mm:   189.2 ±   7.3 Å
+  ( -57.9, -136.2) mm:   187.3 ±   8.1 Å
+  (  57.9, -136.2) mm:   184.0 ±   8.7 Å
+
+TOOL STATISTICS BY WAFER:
+----------------------------------------
+
+BTM Tool:
+  FJ8FV462JKE3: 12340.3 ± 116.2 Å (31 points)
+  GCAZB804MMG2: 12377.4 ± 118.4 Å (31 points)
+  GD1TV233JKE1: 12385.2 ± 122.3 Å (31 points)
+  GD2EG055JKE1: 12444.0 ± 124.6 Å (31 points)
+  GD2EG374JKG2: 12411.5 ± 117.7 Å (31 points)
+  GD7LB592JKE0: 12400.3 ± 120.7 Å (31 points)
+  GH1WJ243JKG6: 12419.8 ± 121.9 Å (31 points)
+  WMCTA057ESB3: 12390.3 ± 123.7 Å (31 points)
+
+DMT Tool:
+  AANAK056TEG1: 12471.1 ±  93.0 Å (31 points)
+  AANAK061TEE1: 12470.9 ±  93.0 Å (31 points)
+  AANAK067TEA1: 12506.1 ±  91.5 Å (31 points)
+  AANAK091TEC7: 12499.4 ±  90.4 Å (31 points)
+
+TFK Tool:
+  AANAK056TEG1: 12459.6 ±  91.3 Å (31 points)
+  AANAK061TEE1: 12458.6 ±  92.0 Å (31 points)
+  AANAK067TEA1: 12494.2 ±  89.6 Å (31 points)
+  AANAK091TEC7: 12487.8 ±  89.1 Å (31 points)
+
+RADIAL SPLINE PLOT FEATURES:
+----------------------------------------
+• X-axis: Radius from wafer center (0-150 mm)
+• Y-axis: Thickness values or delta values
+• Raw data points shown as light colored scatter
+• Binned averages (5mm bins) with error bars as diamonds
+• Spline fits showing smooth radial trends
+• Separate plots for each tool and delta analysis
+• Zero reference line for corrected delta plots
+
+COORDINATE SYSTEM NOTES:
+----------------------------------------
+• Each tool uses its own native coordinate system for radius calculation
+• TFK plots use TFK coordinates when available
+• Radius calculated as sqrt(x² + y²) from wafer center
+• Different tool comparisons may show different radial coverage
+
+================================================================================

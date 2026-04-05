@@ -1,0 +1,44 @@
+ENHANCED THICKNESS COMPARISON ANALYSIS SUMMARY
+============================================================
+
+Generated on: 2026-04-05 10:45:56
+Analysis Date: March 26, 2026
+
+BASIC STATISTICS
+------------------------------
+Total matched measurement pairs: 124
+Unique wafers analyzed: 4
+Wafer IDs: AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK091TEC7
+
+Mean thickness difference (DMT - TFK): 11.836 ± 12.874 Å
+Median thickness difference: 13.340 Å
+Range: -50.720 to 38.620 Å
+95% of differences within: ±25.233 Å
+
+TOOL COMPARISON
+------------------------------
+DMT Tool - Mean: 12486.897 Å, Std: 92.276 Å
+TFK Tool - Mean: 12475.061 Å, Std: 90.843 Å
+Tool bias (DMT - TFK): 11.836 Å
+Precision difference (DMT std - TFK std): 1.433 Å
+
+COORDINATE MATCHING QUALITY
+------------------------------
+Average matching distance: 1.403 ± 0.566 mm
+Matches within 0.5mm: 4/124 (3.2%)
+Matches within 1.0mm: 20/124 (16.1%)
+Maximum matching distance: 3.662 mm
+
+SPATIAL ANALYSIS SUMMARY
+------------------------------
+Spatial grid resolution: 50x50
+Bins with data: 31/2500 (1.2%)
+Spatial coverage: X=[-135.6, 141.7]mm, Y=[-135.6, 135.6]mm
+
+KEY FINDINGS
+------------------------------
+✓ Tools show good overall agreement (low systematic bias)
+⚠ High measurement scatter between tools
+⚠ High coefficient of variation in differences
+
+Coefficient of variation: 108.8%

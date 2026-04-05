@@ -1,0 +1,15 @@
+THICKNESS COMPARISON ANALYSIS SUMMARY
+==================================================
+
+Total matched measurement pairs: 124
+Mean thickness difference (DMT - TFK): 11.836 Å
+Standard deviation of differences: 12.874 Å
+Minimum difference: -50.720 Å
+Maximum difference: 38.620 Å
+Median difference: 13.340 Å
+
+DMT Tool - Mean thickness: 12486.897 Å, Std: 92.276 Å
+TFK Tool - Mean thickness: 12475.061 Å, Std: 90.843 Å
+
+Tool mean thickness delta (DMT - TFK): 11.836 Å
+Tool std deviation delta (DMT - TFK): 1.433 Å
