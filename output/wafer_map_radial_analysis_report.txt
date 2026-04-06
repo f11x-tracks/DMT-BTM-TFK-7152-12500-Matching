@@ -4,8 +4,8 @@ WAFER MAP ANALYSIS SUMMARY REPORT - RADIAL SPLINE VERSION
 
 DATASET OVERVIEW:
 ----------------------------------------
-DMT-TFK Comparisons: 124 matched pairs
-  Wafers: AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK091TEC7
+DMT-TFK Comparisons: 248 matched pairs
+  Wafers: AANAK030TEB1, AANAK040TEF5, AANAK055TEB7, AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK090TEG0, AANAK091TEC7
 BTM-DMT Comparisons: 248 matched pairs
   Wafers: FJ8FV462JKE3, GCAZB804MMG2, GD1TV233JKE1, GD2EG055JKE1, GD2EG374JKG2, GD7LB592JKE0, GH1WJ243JKG6, WMCTA057ESB3
 
@@ -14,11 +14,11 @@ LOCATION ANALYSIS:
 Total measurement locations analyzed: 62
 
 DMT-TFK - Top 5 Highest Delta Locations:
-  ( 141.0,  -36.0) mm:   -44.5 ±   5.8 Å
-  ( -57.0,  135.0) mm:    33.7 ±   6.6 Å
-  (-135.0,   57.0) mm:    24.5 ±   9.3 Å
-  ( 135.0,   18.0) mm:    23.3 ±   0.5 Å
-  (  96.0,  -96.0) mm:    20.3 ±   1.8 Å
+  ( 141.0,  -36.0) mm:   -42.1 ±   4.8 Å
+  ( -57.0,  135.0) mm:    32.2 ±   5.1 Å
+  (-135.0,   57.0) mm:    24.6 ±   7.1 Å
+  ( 135.0,   18.0) mm:    23.3 ±   1.9 Å
+  (   0.0,  126.0) mm:    20.2 ±   1.0 Å
 
 BTM-DMT - Top 5 Highest Delta Locations:
   ( -57.9,  136.2) mm:   193.1 ±  12.6 Å
@@ -41,15 +41,23 @@ BTM Tool:
   WMCTA057ESB3: 12390.3 ± 123.7 Å (31 points)
 
 DMT Tool:
+  AANAK030TEB1: 12468.7 ±  94.0 Å (31 points)
+  AANAK040TEF5: 12496.2 ±  91.8 Å (31 points)
+  AANAK055TEB7: 12489.1 ±  89.3 Å (31 points)
   AANAK056TEG1: 12471.1 ±  93.0 Å (31 points)
   AANAK061TEE1: 12470.9 ±  93.0 Å (31 points)
   AANAK067TEA1: 12506.1 ±  91.5 Å (31 points)
+  AANAK090TEG0: 12463.5 ±  93.9 Å (31 points)
   AANAK091TEC7: 12499.4 ±  90.4 Å (31 points)
 
 TFK Tool:
+  AANAK030TEB1: 12457.8 ±  93.0 Å (31 points)
+  AANAK040TEF5: 12484.4 ±  89.8 Å (31 points)
+  AANAK055TEB7: 12476.4 ±  87.8 Å (31 points)
   AANAK056TEG1: 12459.6 ±  91.3 Å (31 points)
   AANAK061TEE1: 12458.6 ±  92.0 Å (31 points)
   AANAK067TEA1: 12494.2 ±  89.6 Å (31 points)
+  AANAK090TEG0: 12451.9 ±  92.4 Å (31 points)
   AANAK091TEC7: 12487.8 ±  89.1 Å (31 points)
 
 RADIAL SPLINE PLOT FEATURES:

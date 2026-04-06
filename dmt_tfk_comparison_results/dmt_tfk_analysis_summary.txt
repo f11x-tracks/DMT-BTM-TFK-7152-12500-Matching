@@ -1,12 +1,12 @@
 DMT vs TFK Thickness Comparison Analysis
 ==================================================
 
-Total matched pairs: 124
-Unique wafers: 4
-Mean thickness delta (DMT - TFK): 11.836 ± 12.874 Å
+Total matched pairs: 248
+Unique wafers: 8
+Mean thickness delta (DMT - TFK): 11.792 ± 12.268 Å
 Median delta: 13.340 Å
 Delta range: -50.720 to 38.620 Å
-25th percentile: 10.530 Å
-75th percentile: 16.150 Å
+25th percentile: 10.165 Å
+75th percentile: 16.320 Å
 Mean matching distance: 1.403 mm
 Distance threshold used: 4.0 mm

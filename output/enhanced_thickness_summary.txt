@@ -1,32 +1,32 @@
 ENHANCED THICKNESS COMPARISON ANALYSIS SUMMARY
 ============================================================
 
-Generated on: 2026-04-05 10:45:56
+Generated on: 2026-04-06 10:32:56
 Analysis Date: March 26, 2026
 
 BASIC STATISTICS
 ------------------------------
-Total matched measurement pairs: 124
-Unique wafers analyzed: 4
-Wafer IDs: AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK091TEC7
+Total matched measurement pairs: 248
+Unique wafers analyzed: 8
+Wafer IDs: AANAK030TEB1, AANAK040TEF5, AANAK055TEB7, AANAK056TEG1, AANAK061TEE1, AANAK067TEA1, AANAK090TEG0, AANAK091TEC7
 
-Mean thickness difference (DMT - TFK): 11.836 ± 12.874 Å
+Mean thickness difference (DMT - TFK): 11.792 ± 12.268 Å
 Median thickness difference: 13.340 Å
 Range: -50.720 to 38.620 Å
-95% of differences within: ±25.233 Å
+95% of differences within: ±24.046 Å
 
 TOOL COMPARISON
 ------------------------------
-DMT Tool - Mean: 12486.897 Å, Std: 92.276 Å
-TFK Tool - Mean: 12475.061 Å, Std: 90.843 Å
-Tool bias (DMT - TFK): 11.836 Å
-Precision difference (DMT std - TFK std): 1.433 Å
+DMT Tool - Mean: 12483.128 Å, Std: 92.112 Å
+TFK Tool - Mean: 12471.336 Å, Std: 90.649 Å
+Tool bias (DMT - TFK): 11.792 Å
+Precision difference (DMT std - TFK std): 1.463 Å
 
 COORDINATE MATCHING QUALITY
 ------------------------------
-Average matching distance: 1.403 ± 0.566 mm
-Matches within 0.5mm: 4/124 (3.2%)
-Matches within 1.0mm: 20/124 (16.1%)
+Average matching distance: 1.403 ± 0.565 mm
+Matches within 0.5mm: 8/248 (3.2%)
+Matches within 1.0mm: 40/248 (16.1%)
 Maximum matching distance: 3.662 mm
 
 SPATIAL ANALYSIS SUMMARY
@@ -41,4 +41,4 @@ KEY FINDINGS
 ⚠ High measurement scatter between tools
 ⚠ High coefficient of variation in differences
 
-Coefficient of variation: 108.8%
+Coefficient of variation: 104.0%
